@@ -3,7 +3,7 @@ package com.mycompany.proyectofuturo;
 
 /*Ejercicio realizado por Alejandro Sancho
 Github -> Sancho-crab
-*/
+*/ 
 public class EntornosProyectoFururo {
         
        public static void main (String[]args){
